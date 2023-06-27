@@ -1,2 +1,1 @@
-# ML-Algorithmic-Trading-Bot
-I will be creating a ML trading bot that learns and adapts to new data and markets.
+The baseline model performed slightly better than the tuned model in terms of precision, recall, and f1-score for both classes. However, the difference was not very significant and the accuracy remained the same at 0.55. This suggests that the tuned model did not improve much on the performance of the baseline model and may have overfitted or underfitted the data. The baseline model also had a higher macro average f1-score, which means that it was more balanced in handling both classes. However, both models had low f1-scores for the negative class, which indicates that they were not very good at predicting the downward movements of the market.
